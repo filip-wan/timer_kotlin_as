@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">timer_kotlin</string>
+    <string name="tab_text_1">Timer</string>
+    <string name="tab_text_2">Stopwatch</string>
+    <string name="button_timer_start">Start</string>
+</resources>
